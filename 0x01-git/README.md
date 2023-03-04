@@ -1,1 +1,1 @@
-Second Readme
+"Starting to code today,so cool"
